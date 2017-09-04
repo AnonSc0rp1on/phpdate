@@ -1,0 +1,2 @@
+# phpdate
+echo date
